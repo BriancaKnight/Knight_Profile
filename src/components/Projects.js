@@ -9,7 +9,7 @@ function Projects() {
           <h2>Some of my favorite projects so far...</h2>
         </div>
         <div className='projectsExample'>
-          <h3><a href='bk-flowrise.vercel.app'>Flowrise</a></h3>
+          <h3><a href='https://bk-flowrise.vercel.app/'>Flowrise</a></h3>
 
           <p>A mock website for Flowrise: A productivity app. Technologies utilized include TypeScript and Next.js, Tailwind for styling, and Prismic, a headless CMS. (Look around and try to find my lil easter egg!) </p><br />
           </div>
