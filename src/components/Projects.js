@@ -9,21 +9,20 @@ function Projects() {
           <h2>Some of my favorite projects so far...</h2>
         </div>
         <div className='projectsExample'>
-          <h3><a href='https://github.com/BriancaKnight/Inventory_Tracker_Update'>The Refillery</a></h3>
+          <h3><a href='https://flowrise-prismic-pink.vercel.app/'>Flowrise</a></h3>
 
-          <p>Utilizing React, this application streamlines inventory management for a fictional Refillery retailer. With React's robust state management and the testing capabilities of react-redux, it's designed for precise and efficient retail operations.</p><br />
+          <p>A mock website for Flowrise: A productivity app. Technologies utilized include TypeScript and Next.js, Tailwind for styling, and Prismic, a headless CMS. (Look around and try to find my lil easter egg!) </p><br />
           </div>
           
         <div className='projectsExample'>
-          <h3><a href='https://github.com/BriancaKnight/space'>Super Galactic Age Calculator</a></h3>
+          <h3><a href='https://github.com/BriancaKnight/beyondtipping'>beyondtipping</a></h3>
 
-          <p>A project utilizing Object-Oriented Javascript and Test-Driven Development with Jest to calculate age equivalency on different planets. Technologies used include Javascript, CSS, HTML, and Webpack.</p><br />
+          <p>An application that lists restaurants that have removed the tipping model, opting for a flat price on menus or implementing a service fee. Technologies used include TypeScript, JavaScript, Python, HTML, and CSS. Role- UI/UX designer in this group project.</p><br />
         </div>
         <div className='projectsExample'>
-          <h3><a href='https://github.com/BriancaKnight/art-institute'>Art Institute of Chicago Catalogue</a></h3>
+          <h3><a href='https://github.com/BriancaKnight/Pierre_Sweet_Treats.Solution'>Pierre's Sweet Treats</a></h3>
 
-          <p>A group project providing an interface for users to search the Art Institute of Chicago's Archives. APIs pull images, titles, artist information, and detailed descriptions of the most popular artwork within the user's search terms. Technologies used for this project include JavaScript, HTML, CSS, and Webpack.</p>
-          <p>Co-authored by Kim Robinson and Grant Able.</p><br />
+          <p>This application serves as an online marketplace where a user can browse the bakery inventory by flavors or by treats. If a user is signed in with Identity they have manager-level access to create, edit, and delete items. Technologies used inclueds C#, HTML, CSS, & MySQL, created through MVC.</p><br />
         </div>
       
           <div className='projectsCloser'>

@@ -12,6 +12,8 @@
   font-size: 13px;
   align-items: flex-end; 
   margin-top: 20px;
+  text-decoration: underline;
+  text-decoration-color: rgb(108, 108, 108);
 }
 
 .headerNavigation h4 {
