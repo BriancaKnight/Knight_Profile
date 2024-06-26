@@ -1,5 +1,5 @@
 import React from 'react';
-import myResume from '../assets/images/resume.png'
+import myResume from '../assets/images/KnightDevResume.jpg'
 import './Resume.css';
 
 
@@ -14,7 +14,7 @@ function Resume() {
           <img src={myResume} alt="Knight Resume '24" />
         </div>
         <div className='resumeCloser'>
-          <h2><a href='https://docs.google.com/document/d/1cHH_s1S21TkoD_R2NSqZMGMAShVHhhZczDq_YI9bKqs/edit?usp=sharing' download>Download a copy of my resume here.</a></h2>
+          <h2><a href='https://docs.google.com/document/d/12SpFm5WpzF0i7a3B_bZj9BwZbocDREYVlnyBV92EMBY/edit?usp=sharing' download>Download a copy of my resume here.</a></h2>
         </div>
 
       </div>
