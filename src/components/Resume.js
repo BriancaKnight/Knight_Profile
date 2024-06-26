@@ -1,5 +1,5 @@
 import React from 'react';
-import myResume from '../assets/images/KnightDevResume.jpg'
+import myResume from '../assets/images/BKDev.jpg'
 import './Resume.css';
 
 
